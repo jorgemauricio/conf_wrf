@@ -1,0 +1,27 @@
+# 2018-10-15
+
+# LEVELS
+LEVELS = 30
+
+# CUMULUS
+CU_PHYSICS         = 2,0
+Betts_Miller_Janjic
+
+# MICROPHYSICS
+MP_PHYSICS         = 7
+GSFCGCE_HAIL       = 1
+Goddard
+
+# PBL THEME
+BL_PBL_PHYSICS     = 2
+Mellor-Yamada_Janjic
+
+# RADIATION
+RA_LW_PHYSICS      = 05
+RA_SW_PHYSICS      = 01
+
+# DYNAMICS
+GWD_OPT            = 1
+
+# LANDSURFACE
+SF_SURFACE_PHYSICS = 2
